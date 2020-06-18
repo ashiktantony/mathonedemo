@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mathonedemo/static/css/main.46c96389.chunk.css",
-    "main.js": "/mathonedemo/static/js/main.98f24469.chunk.js",
-    "main.js.map": "/mathonedemo/static/js/main.98f24469.chunk.js.map",
+    "main.js": "/mathonedemo/static/js/main.3ea8cd6b.chunk.js",
+    "main.js.map": "/mathonedemo/static/js/main.3ea8cd6b.chunk.js.map",
     "runtime-main.js": "/mathonedemo/static/js/runtime-main.d23c57c1.js",
     "runtime-main.js.map": "/mathonedemo/static/js/runtime-main.d23c57c1.js.map",
     "static/js/2.6aa4eb26.chunk.js": "/mathonedemo/static/js/2.6aa4eb26.chunk.js",
     "static/js/2.6aa4eb26.chunk.js.map": "/mathonedemo/static/js/2.6aa4eb26.chunk.js.map",
     "index.html": "/mathonedemo/index.html",
-    "precache-manifest.abea33db56b434252394afb9af8fa9b0.js": "/mathonedemo/precache-manifest.abea33db56b434252394afb9af8fa9b0.js",
+    "precache-manifest.41883d5701bd90fd6e4278b020ac5909.js": "/mathonedemo/precache-manifest.41883d5701bd90fd6e4278b020ac5909.js",
     "service-worker.js": "/mathonedemo/service-worker.js",
     "static/css/main.46c96389.chunk.css.map": "/mathonedemo/static/css/main.46c96389.chunk.css.map",
     "static/js/2.6aa4eb26.chunk.js.LICENSE.txt": "/mathonedemo/static/js/2.6aa4eb26.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d23c57c1.js",
     "static/js/2.6aa4eb26.chunk.js",
     "static/css/main.46c96389.chunk.css",
-    "static/js/main.98f24469.chunk.js"
+    "static/js/main.3ea8cd6b.chunk.js"
   ]
 }
