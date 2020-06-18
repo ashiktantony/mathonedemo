@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15bc35ea47e09ed60106bcf13d04f956",
+    "revision": "1e4ad9915d52b0874ef399dcfd8285b7",
     "url": "/mathonedemo/index.html"
   },
   {
-    "revision": "c409a089deccc5b083d7",
+    "revision": "436ff1c344c23072e062",
     "url": "/mathonedemo/static/css/main.46c96389.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mathonedemo/static/js/2.6aa4eb26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c409a089deccc5b083d7",
-    "url": "/mathonedemo/static/js/main.04fa0d82.chunk.js"
+    "revision": "436ff1c344c23072e062",
+    "url": "/mathonedemo/static/js/main.98f24469.chunk.js"
   },
   {
     "revision": "528e10709d8794f9a226",
